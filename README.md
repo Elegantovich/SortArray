@@ -8,7 +8,7 @@ Python 3.11
 
 
 ### How to start a project:
-clonning repositories in your machine and go to the root directory:
+clonning repositories in your machine and go to the root directory of project:
 ```
 git clone https://github.com/Elegantovich/SortArray
 ```
