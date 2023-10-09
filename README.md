@@ -3,7 +3,9 @@ Heads x Hands
 ## Description
 Скрипт по наполнению и сортировке массива согласно тз
 ### Contacts
+```
 @Elegantovich
+```
 
 
 ### Tech
